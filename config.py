@@ -12,7 +12,7 @@ BANNER = """
  \ \_____\  \ \_____\  \ \_\    \ \_____\ 
   \/_____/   \/_____/   \/_/     \/_____/ 
 
-Welcome to UEPL version {}                                     
+Welcome to EUPL version {}                                     
 """.format(VERSION)
 
 # Command list
