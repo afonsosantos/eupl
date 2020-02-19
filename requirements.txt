@@ -2,7 +2,7 @@ autopep8==1.4.4
 certifi==2019.11.28
 chardet==3.0.4
 idna==2.8
-psutil==5.6.7
+psutil==5.7.0
 pycodestyle==2.5.0
 pyreadline==2.1
 requests==2.22.0
